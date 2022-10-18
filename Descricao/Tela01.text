@@ -1,0 +1,16 @@
+- Carregamento com a logomarca
+- tela com "seja bem vindo ao Pear estacionamento "
+- um botão de ação com cadastra tag
+   | dentro dessa ação o usuário irá  
+   | Cadastra a tag gerada pelo RFID exemplo "R6635B"
+   | dentro do imput o usuário devará inserir o dado exatado gerado
+   | Caso ele insara um valor errado, deve aparecer um erro pedindo para ele
+   | digitar novamente.
+   | Caso ele coloque uma tag já é existente  ou utilizada deverá aparecer também um erro para 
+   | digitar novamente.
+   | Caso o usuário digite a tag corretamente iremos para a tela 02
+   ,
+
+
+- um botão de ação para consultar a tag
+- uma tag de ação para ajuda 

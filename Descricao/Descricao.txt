@@ -1,0 +1,8 @@
+Controle de estacionamento atráves de um WebApp que
+faz a marcação de permanencia e custo.
+Quando o usuário entra na vaga a contagem irá começar, e , permanencia será monitorida atráves
+da Identificação por radiofrequência (RFID) de um tag.
+que carrega uma id tempo de permanencia e valor.
+Após o inicio da contagem o cliente deverá cadastra a tag  
+gerado pelo RFID e assim ter o controle do tempo e valor
+que  deverá pagar, após a utilização da vaga do estacionamento.
