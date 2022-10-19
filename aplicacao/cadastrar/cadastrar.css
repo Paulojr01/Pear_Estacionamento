@@ -1,0 +1,23 @@
+body {
+    background-color: #F3E2A9;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+#imagemVoltar{
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    margin-top: 12px;
+    margin-right: 12px;
+    left: 12px;
+    top: 12px;
+
+}

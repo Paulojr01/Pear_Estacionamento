@@ -8,8 +8,11 @@
    | digitar novamente.
    | Caso ele coloque uma tag já é existente  ou utilizada deverá aparecer também um erro para 
    | digitar novamente.
-   | Caso o usuário digite a tag corretamente iremos para a tela 02
-   ,
+   | Caso o usuário digite a tag corretamente iremos para a 
+   
+   
+   tela 02
+
 
 
 - um botão de ação para consultar a tag
