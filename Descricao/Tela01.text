@@ -8,12 +8,23 @@
    | digitar novamente.
    | Caso ele coloque uma tag já é existente  ou utilizada deverá aparecer também um erro para 
    | digitar novamente.
-   | Caso o usuário digite a tag corretamente iremos para a 
-   
-   
-   tela 02
-
-
+   | Caso o usuário digite a tag corretamente iremos para a tela 02
+   | 
 
 - um botão de ação para consultar a tag
-- uma tag de ação para ajuda 
+   | Nessa ação o usuário deverá inserir a o cod da tag
+   | Essa tag precisa ser testada para saber se é valida
+   | o usuário deve inserir também nome 
+   | o nome também não pode ter número e caracter especial
+   | Caso a tag esteja valida o usuário deve ser direcionado para a tela 03
+
+- uma botão de ação  para ajuda 
+   | está ação  deverá conter informações de como conseguir o RFID
+   | Como cadastrar 
+   | Como consultar
+   
+
+
+
+
+// tag precisa ser ter já os valores definidos 

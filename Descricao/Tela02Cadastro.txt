@@ -1,0 +1,8 @@
+- Tela 02 cadastro
+   | Deve conter um botão de voltar para a tela inicial
+   | deverá conter uma mensagem pedindo para o usuário inserir os dados
+   | um botão de ação para inserir o valor já gerado    
+   | um botão para inserir o nome do usuário
+   | um botão para confirmar após isso seguir para pagina 03
+
+   
