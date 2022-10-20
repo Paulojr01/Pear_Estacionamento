@@ -1,0 +1,9 @@
+Tela06 Ajuda
+   | Deve conter uma mensagem auxilindo o usuário a cadastrar
+   | Deve conter uma mensagem auxilindo o usuário a consultar
+   | Botão de ação para o usuário relata um erro
+   | Após o usuário clicar em "Relatar um erro" será preciso aparecer uma caixa de mensagem
+   | Deverá ter uma segunda caixa pedindo um email para retornamos o contato
+   | Criar um botão de ação para "envio"
+   | Deve conter uma mensagem agradecendo
+   | Botão de ação para retorna a tela inicial

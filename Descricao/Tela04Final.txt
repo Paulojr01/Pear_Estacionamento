@@ -1,0 +1,7 @@
+Tela04 Final
+   | Deve conter um botão de voltar para a tela inicial
+   | deverá conter uma mensagem com Pear Park   
+   | Deverá aparecer o nome o usuário
+   | Deverá aparecer o o valor gerado do RFID cadastrado do mesmo
+   | Deverá aparecer o tempo do usuário no estacionamento
+   | Deverá aparecer o valor até aquele momento para o usuário pagar
